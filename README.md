@@ -1,11 +1,5 @@
 # Steps to follow
 
-------------------------|
-                    ---E|
-  H ----                |
-                       E| 
-------------------------|
-
 1- Character movement (SVG) // DONE
   - insert a geo shape //success
   - captured the keyboard events // success
