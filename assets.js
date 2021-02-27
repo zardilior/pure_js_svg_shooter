@@ -15,3 +15,12 @@ const heroBulletSvg = `
     <circle cx="11" cy="5" r="5" fill="red"></circle>
   </svg>
 `
+
+const enemyBulletSvg = `
+  <svg width="1200" height="5" viewbox="0 0 1200 5">
+      <rect x="0" y="0" width="1200" height="5" fill="red">     </rect>
+    <rect x="0" y="0" width="1200" height="1" fill="#fac3c3"> 
+      </rect>
+    <rect x="0" y="4" width="1200" height="1" fill="#fac3c3">     </rect>
+  </svg>
+`
