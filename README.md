@@ -1,5 +1,7 @@
+# Overview
+A shooter made in vanilla js with svg, pending some changes
 
-# How to run
+## How to run
 
 To get and setup the code
 `
@@ -16,7 +18,7 @@ simple-server .
 or open it on a browser
 
 
-# Roadmap 
+## Roadmap 
 
 1- Character movement (SVG) // DONE
   - insert a geo shape //success
